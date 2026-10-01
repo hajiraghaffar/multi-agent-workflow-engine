@@ -49,3 +49,6 @@ pip install fastapi uvicorn langgraph pandas
 
 # Start the server
 uvicorn main:app --reload --port 8000
+
+
+
